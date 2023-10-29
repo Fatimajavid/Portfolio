@@ -6,9 +6,9 @@
     background: transparent;
 }
 
-body{
-    background: rgb(3, 3, 3);
-    color: white;
-    overflow: hidden;
+body {
+    background: #b3c7c9;
+    color: #3a62ad;
+    overflow:hidden;
     overflow-y: scroll;
 }
